@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @chriss006
 - 👀 I’m interested in Semantic Segmentation, MLOps, Medical Imaging with DL
-- 🌱 I’m currently learning 
-- 📫 How to reach me ... alicevravo@gmail.com
-- 😄 Pronouns: ...
+
 
 
 <!---
