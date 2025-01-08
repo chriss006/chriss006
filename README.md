@@ -1,4 +1,4 @@
-B.E. in Department of Software Convergence, Seoul Women’s University, Republic of Korea - *Mar.2020 ~ Feb.2025(Expected)*
+B.E. in Department of Software Convergence, Seoul Women’s University, Republic of Korea - *Mar.2020 ~ Feb.2025*
 
 **[Research Interest]**
 
