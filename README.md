@@ -13,7 +13,4 @@ B.E. in Department of Software Convergence, Seoul Women’s University, Republic
 
 
 
-<!---
-chriss006/chriss006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
