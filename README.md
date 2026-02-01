@@ -1,3 +1,4 @@
+MSc in Data Science and Articifical Intellignce, Université Côte d'Azur, France - *2025 ~ 2027*
 B.E. in Department of Software Convergence, Seoul Women’s University, Republic of Korea - *Mar.2020 ~ Feb.2025*
 
 **[Research Interest]**
